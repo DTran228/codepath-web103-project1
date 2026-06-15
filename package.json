@@ -1,0 +1,12 @@
+{
+  "name": "listicle-food",
+  "version": "1.0.0",
+  "description": "WEB103 Unit 1 Project - Vietnamese Food Listicle",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
